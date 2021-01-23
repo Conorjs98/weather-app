@@ -30,11 +30,13 @@ Don't know what the hell git is? google it.
 
 I have provided some skeleton code. This is one way to structure the project. You are not restricted to this. I would reccomend not looking at the skeleton code unless you are stuck.
 
+*Note I only spent a few minutes thinking about the skeleton code. It is possible you will need more/less modules then what I provided*
+
 ### Future work
 
 Once done with this we can talk about how this project can be expanded. 
 
-*note you do not need to use python but I think it would be the easiest and I would reccomend it
+*note you do not need to use python but I think it would be the easiest and I would reccomend it*
 
 
 
