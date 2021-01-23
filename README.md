@@ -14,7 +14,7 @@ When designing classes ask yourself what is this components job and does it do o
 
 ### Contributing
 
-You need to [clone](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) this repo [create your own branch](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging) and open a [pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests) once your done and ready for me to look over your code.
+You need to [fork](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo) the repo and then [clone](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) this repo to your local repository. Then you should [create your own branch](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging) and open a [pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests) to the main repo once your done and ready for me to look over your code.
 
 ### Tips
 
