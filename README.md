@@ -26,6 +26,8 @@ Don't know how to use an API in python? google it.
 
 Don't know hwo to read from a file? google it.
 
+I have provided some skeleton code. This is one way to structure the project. You are not restricted to this. I would reccomend not looking at the skeleton code unless you are stuck.
+
 ### Future work
 
 Once done with this we can talk about how this project can be expanded. 
